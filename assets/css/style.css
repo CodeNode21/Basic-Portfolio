@@ -101,8 +101,13 @@ div{
     margin: 35px;
     color: #777777;
 }
-p{
+a{
     font-size: 18px;
+    color:#777777;
+}
+a:hover{
+    color: red;
+    background-color: #4aaaa5;
 }
 .bio{
     margin-right: 55px;
